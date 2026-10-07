@@ -18,7 +18,7 @@ public class PersonalProfilePrinter {
         //PERSONAL PROFILE PRINTER
         int age = 20;
         double height = 158.496;
-        char initial = 'E'; 
+        char initial = 'T'; 
         boolean Enrolled = true;
         
         System.out.println ("age: " + age);
